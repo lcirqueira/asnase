@@ -10,3 +10,6 @@ git commit -m "message"
 
 3rd:
 git push -u origin master
+
+useful link:
+https://docs.gitlab.com/ee/tutorials/make_first_git_commit/
